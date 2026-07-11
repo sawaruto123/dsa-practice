@@ -23,7 +23,7 @@ Each problem gets its own file: `NN_problem_name.py`. Every file has:
 ## Progress Tracker
 
 ### Week 1 — Arrays, Strings, Two Pointers, Recursion
-- [ ] Two Sum
+- [✓] Two Sum
 - [ ] Valid Anagram
 - [ ] Contains Duplicate
 - [ ] Valid Palindrome
