@@ -24,7 +24,7 @@ Each problem gets its own file: `NN_problem_name.py`. Every file has:
 
 ### Week 1 — Arrays, Strings, Two Pointers, Recursion
 - [✓] Two Sum
-- [ ] Valid Anagram
+- [✓] Valid Anagram
 - [ ] Contains Duplicate
 - [ ] Valid Palindrome
 - [ ] Best Time to Buy and Sell Stock
