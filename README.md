@@ -27,7 +27,7 @@ Each problem gets its own file: `NN_problem_name.py`. Every file has:
 - [✓] Valid Anagram
 - [✓] Contains Duplicate
 - [✓] Valid Palindrome
-- [ ] Best Time to Buy and Sell Stock
+- [✓] Best Time to Buy and Sell Stock
 - [ ] Longest Substring Without Repeating Characters
 - [ ] Hand-roll: Bubble Sort
 - [ ] Hand-roll: Merge Sort
