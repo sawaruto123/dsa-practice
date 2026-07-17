@@ -1,5 +1,5 @@
 """
-Problem: Valid Palindrome (https://leetcode.com)
+Problem: Valid Palindrome (https://leetcode.com/problems/valid-palindrome/)
 
 Statement (in my own words):
 The problem wants us to see if the value can be a palindrome if they are all lowercase and removed anything other than letters and

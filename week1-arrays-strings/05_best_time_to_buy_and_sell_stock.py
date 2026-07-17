@@ -11,7 +11,7 @@ Final approach:
 Then i move on focusing on finding the lower prize and compare it to i and find the biggest max profit and print it out
 
 Time complexity: O(n)
-Space complexity: O(n)
+Space complexity: O(1)
 """
 
 class Solution(object):
